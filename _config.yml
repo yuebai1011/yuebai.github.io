@@ -15,8 +15,8 @@ keywords: yuebai,月白,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生�
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: yuebai1011/yuebai.github.io
-github_url: https://github.com/yuebai1011
+repository: yuebai01/yuebai01.github.io
+github_url: https://github.com/yuebai01
 url: http://www.yuebai.com
 enforce_ssl: yuebai.com
 
@@ -239,17 +239,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: yuebau
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: yuebai
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: yuebai
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
